@@ -1,0 +1,6 @@
+framework module Pods_FusumaDemo {
+  umbrella header "Pods-FusumaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
